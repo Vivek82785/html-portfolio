@@ -437,7 +437,7 @@ input[type="submit"]:hover{
 
 /*-------------------------------------------------------------*/
 
-@media (680px<width<=1000px)
+@media (680px<width<=1080px)
 {
     .nav2{
         gap: 45px;
